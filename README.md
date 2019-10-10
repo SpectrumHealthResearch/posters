@@ -1,2 +1,4 @@
-# posters
-A collection of posters created by SHOR researchers
+# Poster Presentations
+
+A collection of posters created by SHOR researchers.
+
