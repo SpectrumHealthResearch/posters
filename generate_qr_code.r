@@ -30,7 +30,8 @@ parser$add_argument("-s", "--size",
                     type = "double",
                     help = "Side length (inches) of the image")
 parser$add_argument("-r", "--resolution",
-                    default = 300L, type = "integer",
+                    default = 300L,
+		    type = "integer",
                     help = "Resolution (ppi) of image")
 parser$add_argument("-o", "--outfile",
                     required = TRUE,
